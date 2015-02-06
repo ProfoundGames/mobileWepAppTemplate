@@ -1,0 +1,29 @@
+.homeBigButonTable{
+    width: 100%;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.homeBigButonTable > tbody > tr{
+    text-align: center;
+}
+
+.homeBigButonTable > tbody > tr > td > a{
+    width: 80px;
+    height: 80px;
+}
+
+.homeBigButonTable > tbody > tr > td > a > div{
+    margin-bottom: 25px
+}
+
+.homeBigButonTable > tbody > tr > td > a > div > img{
+    width: 85%;
+    height: auto;
+    background-color: #A1D818;
+    max-width: 250px;
+}
+
+.homeBigButonTable > tbody > tr > td > a > div > img:active{
+    background-color: #6D9210;
+}

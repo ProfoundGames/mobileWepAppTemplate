@@ -1,0 +1,58 @@
+.homeRoundButonTable{
+    width: 100%;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.homeRoundButonTable > tbody > tr{
+    text-align: center;
+}
+
+.homeRoundButonTable > tbody > tr > td{
+    text-align: center;
+}
+
+.homeRoundButonTable > tbody > tr > td > a > div{
+    background-color: white;
+    max-width: 250px;
+    width: 85%;
+    height: 100%;
+    margin: 0px auto;
+    border-radius: 25px;
+    padding-top: 15px;
+    box-shadow: 5px 5px 10px #888888;    
+}
+
+.homeRoundButonTable > tbody > tr > td > a{
+    width: 80px;
+    height: 80px;
+}
+
+.homeRoundButonTable > tbody > tr > td > a:link , .homeRoundButonTable > tbody > tr > td > a:visited , .homeRoundButonTable > tbody > tr > td > a:active, .homeRoundButonTable > tbody > tr > td > a:hover{
+    color: black;
+    font-size: 100%;
+    text-decoration: none;
+    width: 100%;
+}
+
+.homeRoundButonTable > tbody > tr > td > a > div > p{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+
+.homeRoundButonTable > tbody > tr > td > a > div{
+    margin-bottom: 25px
+}
+
+.homeRoundButonTable > tbody > tr > td > a > div > img{
+    width: 75%;
+    height: auto;
+    background-color: #A1D818;
+    border-radius: 50%;
+    box-shadow: 1px 1px 8px black;
+}
+
+.homeRoundButonTable > tbody > tr > td > a > div > img:active{
+    background-color: #6D9210;
+}
